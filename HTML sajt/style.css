@@ -1,0 +1,40 @@
+body {
+    background: #e2c20e;
+    font-family:Arial, Helvetica, sans-serif;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    color:blue;
+}
+a:hover {
+    color:red;
+    text-decoration: underline;
+}
+h1 {
+    font-size:30px;
+}
+p {
+    font-family: Verdana;
+    font-size:15px;
+}
+ol {
+    border:1px solid #000;
+    width:500px;
+}
+ol li {
+    border:1px solid #000;
+    padding: 3px;
+    color:#fff;
+}
+img {
+    padding: 5px;
+    border: 2px solid #000;
+}
+ul li {
+    border:1px solid #000;
+    padding: 3px;
+    width:150px;
+}
+
